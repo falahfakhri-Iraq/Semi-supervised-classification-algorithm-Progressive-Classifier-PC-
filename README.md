@@ -1,0 +1,1 @@
+# Automatic-Multi-Class-Mask-Generation-Based-on-Sentinel-1-2-Derived-Indices
